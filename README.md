@@ -1,2 +1,2 @@
 # CardDelivery
-[![Build status](https://ci.appveyor.com/api/projects/status/lv57yc2kqof3qcr7/branch/main?svg=true)](https://ci.appveyor.com/project/Chikhareva/carddelivery/branch/main)
+[![Build status](https://ci.appveyor.com/api/projects/status/38vmb8b7tuxm38ku/branch/master?svg=true)](https://ci.appveyor.com/project/Chikhareva/carddelivery-0u4ra/branch/master)
